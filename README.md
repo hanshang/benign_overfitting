@@ -3,7 +3,7 @@
 ## Folder structure
 
 ```
-kehan_paper/
+Benign_overfitting_paper/
 ├── README.md
 ├── code/
 │   ├── run_all.R              # Master script that runs everything and generates all figures
